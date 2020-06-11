@@ -1,11 +1,13 @@
 backend: # Set up your backend
-  name: gitlab
+  name: github
+  repo: jensvanderperre/Fended-gatsby-novela
+  branch: master
 
-local_backend: true # Optional if you want to use the local proxy mode
+preview_context: netlify/deployment
 
-publish_mode: editorial_workflow
-media_folder: media    # I'm not using these default media directories at the moment.
-public_folder: /media
+
+media_folder: assets    # I'm not using these default media directories at the moment.
+public_folder: src/assets
 
 collections:
   - name: "posts"
