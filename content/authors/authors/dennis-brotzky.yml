@@ -3,7 +3,7 @@ bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
 featured: true
-avatar: ./avatars/dennis-brotzky.jpg
+avatar: avatars/favicon@2x.jpg
 social:
   - url: 'https://unsplash.com'
   - url: 'https://stackoverflow.com'
