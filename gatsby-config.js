@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Fended® Design verlichting`,
+        short_name: `Fended®`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
