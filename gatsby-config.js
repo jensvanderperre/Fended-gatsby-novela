@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Fended® I Design verlichting `,
+    name: `Fended`,
+    siteUrl: `https:fended.be`,
+    description: `Fended® unieke design verlichting, tips hoe jij jouw lichtplan maakt.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Jouw streekje licht in een zee vol duisternis`,
       maxWidth: 652,
     },
     social: [
