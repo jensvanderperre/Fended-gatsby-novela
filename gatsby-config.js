@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https:fended.be`,
     description: `Fended® unieke design verlichting, tips hoe jij jouw lichtplan maakt.`,
     hero: {
-      heading: `Jouw streekje licht in een zee vol duisternis`,
+      heading: `Fended® - Jouw streekje licht in een zee vol duisternis`,
       maxWidth: 652,
     },
     social: [
