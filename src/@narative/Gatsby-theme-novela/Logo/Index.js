@@ -1,5 +1,5 @@
 import React from 'react';
-import svglogo from 'src/assets/fended-branding.svg'
+import svglogo from './fended-branding.svg'
 /**
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
@@ -7,6 +7,4 @@ import svglogo from 'src/assets/fended-branding.svg'
  */
 export default function Logo() {
   return <img src={svglogo} height="30px" />;
-   
-
 }
